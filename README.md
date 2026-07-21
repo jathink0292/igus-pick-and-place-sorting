@@ -13,6 +13,12 @@ publishes live status back to the same broker while showing an on-screen dashboa
 Built as the final robotics project for my M.Eng. (Industry 4.0 — Automation, Robotics
 & 3D Manufacturing) at SRH University Berlin.
 
+## Demo
+https://github.com/user-attachments/assets/ed28f50a-0f45-421e-bff7-55a7470129ac
+
+https://github.com/user-attachments/assets/c4cd730b-b74e-4e7c-a6a7-42a1a13224ac
+
+
 ## How it works
 
 1. **Perception** (`vision.py`) — OpenCV HSV colour segmentation detects boxes and
